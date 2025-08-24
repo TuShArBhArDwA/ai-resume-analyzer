@@ -14,7 +14,6 @@ An AI-powered Resume Analyzer built with React, React Router, Puter.js, and Tail
 5. 🤝 [Contributing](#contributing)
 6. 📜 [License](#license)
 7. 📬 [Contact](#contact)
-8. 🚀 [More](#more)
 
 
 ## <a name="introduction">✨ Introduction</a>
@@ -106,11 +105,14 @@ Contributions are welcome!
 ## <a name="license">📜 License</a>
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
-## <a name="more">📬 Contact</a>
+## <a name="contact">📬 Contact</a>
 
 👤 **Tushar Bhardwaj**  
 
 - GitHub: [@TuShArBhArDwA](https://github.com/TuShArBhArDwA)  
 - LinkedIn: [Tushar Bhardwaj](https://www.linkedin.com/in/tusharbhardwa)  
-- Email: tusharbhardwaj@example.com  
+- Email: tusharbhardwaj@example.com
+- Connect 1:1 : [Topmate](https://topmate.io/tusharbhardwaj)
+- Meet T-Bot: [Discover my work](https://t-bot-blush.vercel.app/)
+- PortFolio: [View Website](https://tushar-bhardwaj.vercel.app/)
 
