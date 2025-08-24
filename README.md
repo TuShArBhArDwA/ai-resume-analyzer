@@ -104,15 +104,13 @@ Contributions are welcome!
 5. Open a Pull Request
 
 ## <a name="license">📜 License</a>
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
-## <a name="more">🚀 More</a>
+## <a name="more">📬 Contact</a>
 
-**Advance your skills with Next.js Pro Course**
+👤 **Tushar Bhardwaj**  
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+- GitHub: [@TuShArBhArDwA](https://github.com/TuShArBhArDwA)  
+- LinkedIn: [Tushar Bhardwaj](https://www.linkedin.com/in/tusharbhardwa)  
+- Email: tusharbhardwaj@example.com  
 
-<a href="https://jsm.dev/resumind-courses" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
